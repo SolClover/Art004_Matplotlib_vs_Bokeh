@@ -1,0 +1,535 @@
+Grand Prix,Date,Winner First Name,Winner Last Name,Winner Short Name,Car,Team,Laps,Time,Winner,Year
+United States,11 Mar 1990,Ayrton,Senna,SEN,McLaren Honda,McLaren,72,1:52:32.829,Ayrton Senna,1990
+Brazil,25 Mar 1990,Alain,Prost,PRO,Ferrari,Ferrari,71,1:37:21.258,Alain Prost,1990
+San Marino,13 May 1990,Riccardo,Patrese,PAT,Williams Renault,Williams,61,1:30:55.478,Riccardo Patrese,1990
+Monaco,27 May 1990,Ayrton,Senna,SEN,McLaren Honda,McLaren,78,1:52:46.982,Ayrton Senna,1990
+Canada,10 Jun 1990,Ayrton,Senna,SEN,McLaren Honda,McLaren,70,1:42:56.400,Ayrton Senna,1990
+Mexico,24 Jun 1990,Alain,Prost,PRO,Ferrari,Ferrari,69,1:32:35.783,Alain Prost,1990
+France,08 Jul 1990,Alain,Prost,PRO,Ferrari,Ferrari,80,1:33:29.606,Alain Prost,1990
+Great Britain,15 Jul 1990,Alain,Prost,PRO,Ferrari,Ferrari,64,1:18:30.999,Alain Prost,1990
+Germany,29 Jul 1990,Ayrton,Senna,SEN,McLaren Honda,McLaren,45,1:20:47.164,Ayrton Senna,1990
+Hungary,12 Aug 1990,Thierry,Boutsen,BOU,Williams Renault,Williams,77,1:49:30.597,Thierry Boutsen,1990
+Belgium,26 Aug 1990,Ayrton,Senna,SEN,McLaren Honda,McLaren,44,1:26:31.997,Ayrton Senna,1990
+Italy,09 Sep 1990,Ayrton,Senna,SEN,McLaren Honda,McLaren,53,1:17:57.878,Ayrton Senna,1990
+Portugal,23 Sep 1990,Nigel,Mansell,MAN,Ferrari,Ferrari,61,1:22:11.014,Nigel Mansell,1990
+Spain,30 Sep 1990,Alain,Prost,PRO,Ferrari,Ferrari,73,1:48:01.461,Alain Prost,1990
+Japan,21 Oct 1990,Nelson,Piquet,PIQ,Benetton Ford,Benetton,53,1:34:36.824,Nelson Piquet,1990
+Australia,04 Nov 1990,Nelson,Piquet,PIQ,Benetton Ford,Benetton,81,1:49:44.570,Nelson Piquet,1990
+United States,10 Mar 1991,Ayrton,Senna,SEN,McLaren Honda,McLaren,81,2:00:47.828,Ayrton Senna,1991
+Brazil,24 Mar 1991,Ayrton,Senna,SEN,McLaren Honda,McLaren,71,1:38:28.128,Ayrton Senna,1991
+San Marino,28 Apr 1991,Ayrton,Senna,SEN,McLaren Honda,McLaren,61,1:35:14.750,Ayrton Senna,1991
+Monaco,12 May 1991,Ayrton,Senna,SEN,McLaren Honda,McLaren,78,1:53:02.334,Ayrton Senna,1991
+Canada,02 Jun 1991,Nelson,Piquet,PIQ,Benetton Ford,Benetton,69,1:38:51.490,Nelson Piquet,1991
+Mexico,16 Jun 1991,Riccardo,Patrese,PAT,Williams Renault,Williams,67,1:29:52.205,Riccardo Patrese,1991
+France,07 Jul 1991,Nigel,Mansell,MAN,Williams Renault,Williams,72,1:38:00.056,Nigel Mansell,1991
+Great Britain,14 Jul 1991,Nigel,Mansell,MAN,Williams Renault,Williams,59,1:27:35.479,Nigel Mansell,1991
+Germany,28 Jul 1991,Nigel,Mansell,MAN,Williams Renault,Williams,45,1:19:29.661,Nigel Mansell,1991
+Hungary,11 Aug 1991,Ayrton,Senna,SEN,McLaren Honda,McLaren,77,1:49:12.796,Ayrton Senna,1991
+Belgium,25 Aug 1991,Ayrton,Senna,SEN,McLaren Honda,McLaren,44,1:27:17.669,Ayrton Senna,1991
+Italy,08 Sep 1991,Nigel,Mansell,MAN,Williams Renault,Williams,53,1:17:54.319,Nigel Mansell,1991
+Portugal,22 Sep 1991,Riccardo,Patrese,PAT,Williams Renault,Williams,71,1:35:42.304,Riccardo Patrese,1991
+Spain,29 Sep 1991,Nigel,Mansell,MAN,Williams Renault,Williams,65,1:38:41.541,Nigel Mansell,1991
+Japan,20 Oct 1991,Gerhard,Berger,BER,McLaren Honda,McLaren,53,1:32:10.695,Gerhard Berger,1991
+Australia,03 Nov 1991,Ayrton,Senna,SEN,McLaren Honda,McLaren,14,24:34.899,Ayrton Senna,1991
+South Africa,01 Mar 1992,Nigel,Mansell,MAN,Williams Renault,Williams,72,1:36:45.320,Nigel Mansell,1992
+Mexico,22 Mar 1992,Nigel,Mansell,MAN,Williams Renault,Williams,69,1:31:53.587,Nigel Mansell,1992
+Brazil,05 Apr 1992,Nigel,Mansell,MAN,Williams Renault,Williams,71,1:36:51.856,Nigel Mansell,1992
+Spain,03 May 1992,Nigel,Mansell,MAN,Williams Renault,Williams,65,1:56:10.674,Nigel Mansell,1992
+San Marino,17 May 1992,Nigel,Mansell,MAN,Williams Renault,Williams,60,1:28:40.927,Nigel Mansell,1992
+Monaco,31 May 1992,Ayrton,Senna,SEN,McLaren Honda,McLaren,78,1:50:59.372,Ayrton Senna,1992
+Canada,14 Jun 1992,Gerhard,Berger,BER,McLaren Honda,McLaren,69,1:37:08.299,Gerhard Berger,1992
+France,05 Jul 1992,Nigel,Mansell,MAN,Williams Renault,Williams,69,1:38:08.459,Nigel Mansell,1992
+Great Britain,12 Jul 1992,Nigel,Mansell,MAN,Williams Renault,Williams,59,1:25:42.991,Nigel Mansell,1992
+Germany,26 Jul 1992,Nigel,Mansell,MAN,Williams Renault,Williams,45,1:18:22.032,Nigel Mansell,1992
+Hungary,16 Aug 1992,Ayrton,Senna,SEN,McLaren Honda,McLaren,77,1:46:19.216,Ayrton Senna,1992
+Belgium,30 Aug 1992,Michael,Schumacher,MSC,Benetton Ford,Benetton,44,1:36:10.721,Michael Schumacher,1992
+Italy,13 Sep 1992,Ayrton,Senna,SEN,McLaren Honda,McLaren,53,1:18:15.349,Ayrton Senna,1992
+Portugal,27 Sep 1992,Nigel,Mansell,MAN,Williams Renault,Williams,71,1:34:46.659,Nigel Mansell,1992
+Japan,25 Oct 1992,Riccardo,Patrese,PAT,Williams Renault,Williams,53,1:33:09.553,Riccardo Patrese,1992
+Australia,08 Nov 1992,Gerhard,Berger,BER,McLaren Honda,McLaren,82,1:46:54.786,Gerhard Berger,1992
+South Africa,14 Mar 1993,Alain,Prost,PRO,Williams Renault,Williams,72,1:38:45.082,Alain Prost,1993
+Brazil,28 Mar 1993,Ayrton,Senna,SEN,McLaren Ford,McLaren,71,1:51:15.485,Ayrton Senna,1993
+Europe,11 Apr 1993,Ayrton,Senna,SEN,McLaren Ford,McLaren,76,1:50:46.570,Ayrton Senna,1993
+San Marino,25 Apr 1993,Alain,Prost,PRO,Williams Renault,Williams,61,1:33:20.413,Alain Prost,1993
+Spain,09 May 1993,Alain,Prost,PRO,Williams Renault,Williams,65,1:32:27.685,Alain Prost,1993
+Monaco,23 May 1993,Ayrton,Senna,SEN,McLaren Ford,McLaren,78,1:52:10.947,Ayrton Senna,1993
+Canada,13 Jun 1993,Alain,Prost,PRO,Williams Renault,Williams,69,1:36:41.822,Alain Prost,1993
+France,04 Jul 1993,Alain,Prost,PRO,Williams Renault,Williams,72,1:38:35.241,Alain Prost,1993
+Great Britain,11 Jul 1993,Alain,Prost,PRO,Williams Renault,Williams,59,1:25:38.189,Alain Prost,1993
+Germany,25 Jul 1993,Alain,Prost,PRO,Williams Renault,Williams,45,1:18:40.885,Alain Prost,1993
+Hungary,15 Aug 1993,Damon,Hill,HIL,Williams Renault,Williams,77,1:47:39.098,Damon Hill,1993
+Belgium,29 Aug 1993,Damon,Hill,HIL,Williams Renault,Williams,44,1:24:32.124,Damon Hill,1993
+Italy,12 Sep 1993,Damon,Hill,HIL,Williams Renault,Williams,53,1:17:07.509,Damon Hill,1993
+Portugal,26 Sep 1993,Michael,Schumacher,MSC,Benetton Ford,Benetton,71,1:32:46.309,Michael Schumacher,1993
+Japan,24 Oct 1993,Ayrton,Senna,SEN,McLaren Ford,McLaren,53,1:40:27.912,Ayrton Senna,1993
+Australia,07 Nov 1993,Ayrton,Senna,SEN,McLaren Ford,McLaren,79,1:43:27.476,Ayrton Senna,1993
+Brazil,27 Mar 1994,Michael,Schumacher,MSC,Benetton Ford,Benetton,71,1:35:38.759,Michael Schumacher,1994
+Pacific,17 Apr 1994,Michael,Schumacher,MSC,Benetton Ford,Benetton,83,1:46:01.693,Michael Schumacher,1994
+San Marino,01 May 1994,Michael,Schumacher,MSC,Benetton Ford,Benetton,58,1:28:28.642,Michael Schumacher,1994
+Monaco,15 May 1994,Michael,Schumacher,MSC,Benetton Ford,Benetton,78,1:49:55.372,Michael Schumacher,1994
+Spain,29 May 1994,Damon,Hill,HIL,Williams Renault,Williams,65,1:36:14.374,Damon Hill,1994
+Canada,12 Jun 1994,Michael,Schumacher,MSC,Benetton Ford,Benetton,69,1:44:31.887,Michael Schumacher,1994
+France,03 Jul 1994,Michael,Schumacher,MSC,Benetton Ford,Benetton,72,1:38:35.704,Michael Schumacher,1994
+Great Britain,10 Jul 1994,Damon,Hill,HIL,Williams Renault,Williams,60,1:30:03.640,Damon Hill,1994
+Germany,31 Jul 1994,Gerhard,Berger,BER,Ferrari,Ferrari,45,1:22:37.272,Gerhard Berger,1994
+Hungary,14 Aug 1994,Michael,Schumacher,MSC,Benetton Ford,Benetton,77,1:48:00.185,Michael Schumacher,1994
+Belgium,28 Aug 1994,Damon,Hill,HIL,Williams Renault,Williams,44,1:28:47.170,Damon Hill,1994
+Italy,11 Sep 1994,Damon,Hill,HIL,Williams Renault,Williams,53,1:18:02.754,Damon Hill,1994
+Portugal,25 Sep 1994,Damon,Hill,HIL,Williams Renault,Williams,71,1:41:10.165,Damon Hill,1994
+Europe,16 Oct 1994,Michael,Schumacher,MSC,Benetton Ford,Benetton,69,1:40:26.689,Michael Schumacher,1994
+Japan,06 Nov 1994,Damon,Hill,HIL,Williams Renault,Williams,50,1:55:53.532,Damon Hill,1994
+Australia,13 Nov 1994,Nigel,Mansell,MAN,Williams Renault,Williams,81,1:47:51.480,Nigel Mansell,1994
+Brazil,26 Mar 1995,Michael,Schumacher,MSC,Benetton Renault,Benetton,71,1:38:34.154,Michael Schumacher,1995
+Argentina,09 Apr 1995,Damon,Hill,HIL,Williams Renault,Williams,71,1:51:39.531,Damon Hill,1995
+San Marino,30 Apr 1995,Damon,Hill,HIL,Williams Renault,Williams,63,1:41:42.552,Damon Hill,1995
+Spain,14 May 1995,Michael,Schumacher,MSC,Benetton Renault,Benetton,65,1:34:20.507,Michael Schumacher,1995
+Monaco,28 May 1995,Michael,Schumacher,MSC,Benetton Renault,Benetton,78,1:53:11.258,Michael Schumacher,1995
+Canada,11 Jun 1995,Jean,Alesi,ALE,Ferrari,Ferrari,69,1:46:31.333,Jean Alesi,1995
+France,02 Jul 1995,Michael,Schumacher,MSC,Benetton Renault,Benetton,72,1:38:28.429,Michael Schumacher,1995
+Great Britain,16 Jul 1995,Johnny,Herbert,HER,Benetton Renault,Benetton,61,1:34:35.093,Johnny Herbert,1995
+Germany,30 Jul 1995,Michael,Schumacher,MSC,Benetton Renault,Benetton,45,1:22:56.043,Michael Schumacher,1995
+Hungary,13 Aug 1995,Damon,Hill,HIL,Williams Renault,Williams,77,1:46:25.721,Damon Hill,1995
+Belgium,27 Aug 1995,Michael,Schumacher,MSC,Benetton Renault,Benetton,44,1:36:47.875,Michael Schumacher,1995
+Italy,10 Sep 1995,Johnny,Herbert,HER,Benetton Renault,Benetton,53,1:18:27.916,Johnny Herbert,1995
+Portugal,24 Sep 1995,David,Coulthard,COU,Williams Renault,Williams,71,1:41:52.145,David Coulthard,1995
+Europe,01 Oct 1995,Michael,Schumacher,MSC,Benetton Renault,Benetton,67,1:39:59.044,Michael Schumacher,1995
+Pacific,22 Oct 1995,Michael,Schumacher,MSC,Benetton Renault,Benetton,83,1:48:49.972,Michael Schumacher,1995
+Japan,29 Oct 1995,Michael,Schumacher,MSC,Benetton Renault,Benetton,53,1:36:52.930,Michael Schumacher,1995
+Australia,12 Nov 1995,Damon,Hill,HIL,Williams Renault,Williams,81,1:49:15.946,Damon Hill,1995
+Australia,10 Mar 1996,Damon,Hill,HIL,Williams Renault,Williams,58,1:32:50.491,Damon Hill,1996
+Brazil,31 Mar 1996,Damon,Hill,HIL,Williams Renault,Williams,71,1:49:52.976,Damon Hill,1996
+Argentina,07 Apr 1996,Damon,Hill,HIL,Williams Renault,Williams,72,1:54:55.322,Damon Hill,1996
+Europe,28 Apr 1996,Jacques,Villeneuve,VIL,Williams Renault,Williams,67,1:33:26.473,Jacques Villeneuve,1996
+San Marino,05 May 1996,Damon,Hill,HIL,Williams Renault,Williams,63,1:35:26.156,Damon Hill,1996
+Monaco,19 May 1996,Olivier,Panis,PAN,Ligier Mugen Honda,Ligier,75,2:00:45.629,Olivier Panis,1996
+Spain,02 Jun 1996,Michael,Schumacher,MSC,Ferrari,Ferrari,65,1:59:49.307,Michael Schumacher,1996
+Canada,16 Jun 1996,Damon,Hill,HIL,Williams Renault,Williams,69,1:36:03.465,Damon Hill,1996
+France,30 Jun 1996,Damon,Hill,HIL,Williams Renault,Williams,72,1:36:28.795,Damon Hill,1996
+Great Britain,14 Jul 1996,Jacques,Villeneuve,VIL,Williams Renault,Williams,61,1:33:00.874,Jacques Villeneuve,1996
+Germany,28 Jul 1996,Damon,Hill,HIL,Williams Renault,Williams,45,1:21:43.417,Damon Hill,1996
+Hungary,11 Aug 1996,Jacques,Villeneuve,VIL,Williams Renault,Williams,77,1:46:21.134,Jacques Villeneuve,1996
+Belgium,25 Aug 1996,Michael,Schumacher,MSC,Ferrari,Ferrari,44,1:28:15.125,Michael Schumacher,1996
+Italy,08 Sep 1996,Michael,Schumacher,MSC,Ferrari,Ferrari,53,1:17:43.632,Michael Schumacher,1996
+Portugal,22 Sep 1996,Jacques,Villeneuve,VIL,Williams Renault,Williams,70,1:40:22.915,Jacques Villeneuve,1996
+Japan,13 Oct 1996,Damon,Hill,HIL,Williams Renault,Williams,52,1:32:33.791,Damon Hill,1996
+Australia,09 Mar 1997,David,Coulthard,COU,McLaren Mercedes,McLaren,58,1:30:28.718,David Coulthard,1997
+Brazil,30 Mar 1997,Jacques,Villeneuve,VIL,Williams Renault,Williams,72,1:36:06.990,Jacques Villeneuve,1997
+Argentina,13 Apr 1997,Jacques,Villeneuve,VIL,Williams Renault,Williams,72,1:52:01.715,Jacques Villeneuve,1997
+San Marino,27 Apr 1997,Heinz-Harald,Frentzen,FRE,Williams Renault,Williams,62,1:31:00.673,Heinz-Harald Frentzen,1997
+Monaco,11 May 1997,Michael,Schumacher,MSC,Ferrari,Ferrari,62,2:00:05.654,Michael Schumacher,1997
+Spain,25 May 1997,Jacques,Villeneuve,VIL,Williams Renault,Williams,64,1:30:35.896,Jacques Villeneuve,1997
+Canada,15 Jun 1997,Michael,Schumacher,MSC,Ferrari,Ferrari,54,1:17:40.646,Michael Schumacher,1997
+France,29 Jun 1997,Michael,Schumacher,MSC,Ferrari,Ferrari,72,1:38:50.492,Michael Schumacher,1997
+Great Britain,13 Jul 1997,Jacques,Villeneuve,VIL,Williams Renault,Williams,59,1:28:01.665,Jacques Villeneuve,1997
+Germany,27 Jul 1997,Gerhard,Berger,BER,Benetton Renault,Benetton,45,1:20:59.046,Gerhard Berger,1997
+Hungary,10 Aug 1997,Jacques,Villeneuve,VIL,Williams Renault,Williams,77,1:45:47.149,Jacques Villeneuve,1997
+Belgium,24 Aug 1997,Michael,Schumacher,MSC,Ferrari,Ferrari,44,1:33:46.717,Michael Schumacher,1997
+Italy,07 Sep 1997,David,Coulthard,COU,McLaren Mercedes,McLaren,53,1:17:04.609,David Coulthard,1997
+Austria,21 Sep 1997,Jacques,Villeneuve,VIL,Williams Renault,Williams,71,1:27:35.999,Jacques Villeneuve,1997
+Luxembourg,28 Sep 1997,Jacques,Villeneuve,VIL,Williams Renault,Williams,67,1:31:27.843,Jacques Villeneuve,1997
+Japan,12 Oct 1997,Michael,Schumacher,MSC,Ferrari,Ferrari,53,1:29:48.446,Michael Schumacher,1997
+Europe,26 Oct 1997,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,69,1:38:57.771,Mika Hakkinen,1997
+Australia,08 Mar 1998,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,58,1:31:45.996,Mika Hakkinen,1998
+Brazil,29 Mar 1998,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,72,1:37:11.747,Mika Hakkinen,1998
+Argentina,12 Apr 1998,Michael,Schumacher,MSC,Ferrari,Ferrari,72,1:48:36.175,Michael Schumacher,1998
+San Marino,26 Apr 1998,David,Coulthard,COU,McLaren Mercedes,McLaren,62,1:34:24.593,David Coulthard,1998
+Spain,10 May 1998,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,65,1:33:37.621,Mika Hakkinen,1998
+Monaco,24 May 1998,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,78,1:51:23.595,Mika Hakkinen,1998
+Canada,07 Jun 1998,Michael,Schumacher,MSC,Ferrari,Ferrari,69,1:40:57.355,Michael Schumacher,1998
+France,28 Jun 1998,Michael,Schumacher,MSC,Ferrari,Ferrari,71,1:34:45.026,Michael Schumacher,1998
+Great Britain,12 Jul 1998,Michael,Schumacher,MSC,Ferrari,Ferrari,60,1:47:02.450,Michael Schumacher,1998
+Austria,26 Jul 1998,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,71,1:30:44.086,Mika Hakkinen,1998
+Germany,02 Aug 1998,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,45,1:20:47.984,Mika Hakkinen,1998
+Hungary,16 Aug 1998,Michael,Schumacher,MSC,Ferrari,Ferrari,77,1:45:25.550,Michael Schumacher,1998
+Belgium,30 Aug 1998,Damon,Hill,HIL,Jordan Mugen Honda,Jordan,44,1:43:47.407,Damon Hill,1998
+Italy,13 Sep 1998,Michael,Schumacher,MSC,Ferrari,Ferrari,53,1:17:09.672,Michael Schumacher,1998
+Luxembourg,27 Sep 1998,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,67,1:32:14.789,Mika Hakkinen,1998
+Japan,01 Nov 1998,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,51,1:27:22.535,Mika Hakkinen,1998
+Australia,07 Mar 1999,Eddie,Irvine,IRV,Ferrari,Ferrari,57,1:35:01.659,Eddie Irvine,1999
+Brazil,11 Apr 1999,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,72,1:36:03.785,Mika Hakkinen,1999
+San Marino,02 May 1999,Michael,Schumacher,MSC,Ferrari,Ferrari,62,1:33:44.792,Michael Schumacher,1999
+Monaco,16 May 1999,Michael,Schumacher,MSC,Ferrari,Ferrari,78,1:49:31.812,Michael Schumacher,1999
+Spain,30 May 1999,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,65,1:34:13.665,Mika Hakkinen,1999
+Canada,13 Jun 1999,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,69,1:41:35.727,Mika Hakkinen,1999
+France,27 Jun 1999,Heinz-Harald,Frentzen,FRE,Jordan Mugen Honda,Jordan,72,1:58:24.343,Heinz-Harald Frentzen,1999
+Great Britain,11 Jul 1999,David,Coulthard,COU,McLaren Mercedes,McLaren,60,1:32:30.144,David Coulthard,1999
+Austria,25 Jul 1999,Eddie,Irvine,IRV,Ferrari,Ferrari,71,1:28:12.438,Eddie Irvine,1999
+Germany,01 Aug 1999,Eddie,Irvine,IRV,Ferrari,Ferrari,45,1:21:58.594,Eddie Irvine,1999
+Hungary,15 Aug 1999,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,77,1:46:23.536,Mika Hakkinen,1999
+Belgium,29 Aug 1999,David,Coulthard,COU,McLaren Mercedes,McLaren,44,1:25:43.057,David Coulthard,1999
+Italy,12 Sep 1999,Heinz-Harald,Frentzen,FRE,Jordan Mugen Honda,Jordan,53,1:17:02.923,Heinz-Harald Frentzen,1999
+Europe,26 Sep 1999,Johnny,Herbert,HER,Stewart Ford,Stewart,66,1:41:54.314,Johnny Herbert,1999
+Malaysia,17 Oct 1999,Eddie,Irvine,IRV,Ferrari,Ferrari,56,1:36:38.494,Eddie Irvine,1999
+Japan,31 Oct 1999,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,53,1:31:18.785,Mika Hakkinen,1999
+Australia,12 Mar 2000,Michael,Schumacher,MSC,Ferrari,Ferrari,58,1:34:01.987,Michael Schumacher,2000
+Brazil,26 Mar 2000,Michael,Schumacher,MSC,Ferrari,Ferrari,71,1:31:35.271,Michael Schumacher,2000
+San Marino,09 Apr 2000,Michael,Schumacher,MSC,Ferrari,Ferrari,62,1:31:39.776,Michael Schumacher,2000
+Great Britain,23 Apr 2000,David,Coulthard,COU,McLaren Mercedes,McLaren,60,1:28:50.108,David Coulthard,2000
+Spain,07 May 2000,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,65,1:33:55.390,Mika Hakkinen,2000
+Europe,21 May 2000,Michael,Schumacher,MSC,Ferrari,Ferrari,67,1:42:00.307,Michael Schumacher,2000
+Monaco,04 Jun 2000,David,Coulthard,COU,McLaren Mercedes,McLaren,78,1:49:28.213,David Coulthard,2000
+Canada,18 Jun 2000,Michael,Schumacher,MSC,Ferrari,Ferrari,69,1:41:12.313,Michael Schumacher,2000
+France,02 Jul 2000,David,Coulthard,COU,McLaren Mercedes,McLaren,72,1:38:05.538,David Coulthard,2000
+Austria,16 Jul 2000,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,71,1:28:15.818,Mika Hakkinen,2000
+Germany,30 Jul 2000,Rubens,Barrichello,BAR,Ferrari,Ferrari,45,1:25:34.418,Rubens Barrichello,2000
+Hungary,13 Aug 2000,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,77,1:45:33.869,Mika Hakkinen,2000
+Belgium,27 Aug 2000,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,44,1:28:14.494,Mika Hakkinen,2000
+Italy,10 Sep 2000,Michael,Schumacher,MSC,Ferrari,Ferrari,53,1:27:31.638,Michael Schumacher,2000
+United States,24 Sep 2000,Michael,Schumacher,MSC,Ferrari,Ferrari,73,1:36:30.883,Michael Schumacher,2000
+Japan,08 Oct 2000,Michael,Schumacher,MSC,Ferrari,Ferrari,53,1:29:53.435,Michael Schumacher,2000
+Malaysia,22 Oct 2000,Michael,Schumacher,MSC,Ferrari,Ferrari,56,1:35:54.235,Michael Schumacher,2000
+Australia,04 Mar 2001,Michael,Schumacher,MSC,Ferrari,Ferrari,58,1:38:26.533,Michael Schumacher,2001
+Malaysia,18 Mar 2001,Michael,Schumacher,MSC,Ferrari,Ferrari,55,1:47:34.801,Michael Schumacher,2001
+Brazil,01 Apr 2001,David,Coulthard,COU,McLaren Mercedes,McLaren,71,1:39:00.834,David Coulthard,2001
+San Marino,15 Apr 2001,Ralf,Schumacher,RSC,Williams BMW,Williams,62,1:30:44.817,Ralf Schumacher,2001
+Spain,29 Apr 2001,Michael,Schumacher,MSC,Ferrari,Ferrari,65,1:31:03.305,Michael Schumacher,2001
+Austria,13 May 2001,David,Coulthard,COU,McLaren Mercedes,McLaren,71,1:27:45.927,David Coulthard,2001
+Monaco,27 May 2001,Michael,Schumacher,MSC,Ferrari,Ferrari,78,1:47:22.561,Michael Schumacher,2001
+Canada,10 Jun 2001,Ralf,Schumacher,RSC,Williams BMW,Williams,69,1:34:31.522,Ralf Schumacher,2001
+Europe,24 Jun 2001,Michael,Schumacher,MSC,Ferrari,Ferrari,67,1:29:42.724,Michael Schumacher,2001
+France,01 Jul 2001,Michael,Schumacher,MSC,Ferrari,Ferrari,72,1:33:35.636,Michael Schumacher,2001
+Great Britain,15 Jul 2001,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,60,1:25:33.770,Mika Hakkinen,2001
+Germany,29 Jul 2001,Ralf,Schumacher,RSC,Williams BMW,Williams,45,1:18:17.873,Ralf Schumacher,2001
+Hungary,19 Aug 2001,Michael,Schumacher,MSC,Ferrari,Ferrari,77,1:41:49.675,Michael Schumacher,2001
+Belgium,02 Sep 2001,Michael,Schumacher,MSC,Ferrari,Ferrari,36,1:08:05.002,Michael Schumacher,2001
+Italy,16 Sep 2001,Juan Pablo,Montoya,MOY,Williams BMW,Williams,53,1:16:58.493,Juan Pablo Montoya,2001
+United States,30 Sep 2001,Mika,Hakkinen,HAK,McLaren Mercedes,McLaren,73,1:32:42.840,Mika Hakkinen,2001
+Japan,14 Oct 2001,Michael,Schumacher,MSC,Ferrari,Ferrari,53,1:27:33.298,Michael Schumacher,2001
+Australia,03 Mar 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,58,1:35:36.792,Michael Schumacher,2002
+Malaysia,17 Mar 2002,Ralf,Schumacher,RSC,Williams BMW,Williams,56,1:34:12.912,Ralf Schumacher,2002
+Brazil,31 Mar 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,71,1:31:43.663,Michael Schumacher,2002
+San Marino,14 Apr 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,62,1:29:10.789,Michael Schumacher,2002
+Spain,28 Apr 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,65,1:30:29.981,Michael Schumacher,2002
+Austria,12 May 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,71,1:33:51.562,Michael Schumacher,2002
+Monaco,26 May 2002,David,Coulthard,COU,McLaren Mercedes,McLaren,78,1:45:39.055,David Coulthard,2002
+Canada,09 Jun 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,70,1:33:36.111,Michael Schumacher,2002
+Europe,23 Jun 2002,Rubens,Barrichello,BAR,Ferrari,Ferrari,60,1:35:07.426,Rubens Barrichello,2002
+Great Britain,07 Jul 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,60,1:31:45.015,Michael Schumacher,2002
+France,21 Jul 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,72,1:32:09.837,Michael Schumacher,2002
+Germany,28 Jul 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,67,1:27:52.078,Michael Schumacher,2002
+Hungary,18 Aug 2002,Rubens,Barrichello,BAR,Ferrari,Ferrari,77,1:41:49.001,Rubens Barrichello,2002
+Belgium,01 Sep 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,44,1:21:20.634,Michael Schumacher,2002
+Italy,15 Sep 2002,Rubens,Barrichello,BAR,Ferrari,Ferrari,53,1:16:19.982,Rubens Barrichello,2002
+United States,29 Sep 2002,Rubens,Barrichello,BAR,Ferrari,Ferrari,73,1:31:07.934,Rubens Barrichello,2002
+Japan,13 Oct 2002,Michael,Schumacher,MSC,Ferrari,Ferrari,53,1:26:59.698,Michael Schumacher,2002
+Australia,09 Mar 2003,David,Coulthard,COU,McLaren Mercedes,McLaren,58,1:34:42.124,David Coulthard,2003
+Malaysia,23 Mar 2003,Kimi,Raikkonen,RAI,McLaren Mercedes,McLaren,56,1:32:22.195,Kimi Raikkonen,2003
+Brazil,06 Apr 2003,Giancarlo,Fisichella,FIS,Jordan Ford,Jordan,54,1:31:17.748,Giancarlo Fisichella,2003
+San Marino,20 Apr 2003,Michael,Schumacher,MSC,Ferrari,Ferrari,62,1:28:12.058,Michael Schumacher,2003
+Spain,04 May 2003,Michael,Schumacher,MSC,Ferrari,Ferrari,65,1:33:46.933,Michael Schumacher,2003
+Austria,18 May 2003,Michael,Schumacher,MSC,Ferrari,Ferrari,69,1:24:04.888,Michael Schumacher,2003
+Monaco,01 Jun 2003,Juan Pablo,Montoya,MOY,Williams BMW,Williams,78,1:42:19.010,Juan Pablo Montoya,2003
+Canada,15 Jun 2003,Michael,Schumacher,MSC,Ferrari,Ferrari,70,1:31:13.591,Michael Schumacher,2003
+Europe,29 Jun 2003,Ralf,Schumacher,RSC,Williams BMW,Williams,60,1:34:43.622,Ralf Schumacher,2003
+France,06 Jul 2003,Ralf,Schumacher,RSC,Williams BMW,Williams,70,1:30:49.213,Ralf Schumacher,2003
+Great Britain,20 Jul 2003,Rubens,Barrichello,BAR,Ferrari,Ferrari,60,1:28:37.554,Rubens Barrichello,2003
+Germany,03 Aug 2003,Juan Pablo,Montoya,MOY,Williams BMW,Williams,67,1:28:48.769,Juan Pablo Montoya,2003
+Hungary,24 Aug 2003,Fernando,Alonso,ALO,Renault,Renault,70,1:39:01.460,Fernando Alonso,2003
+Italy,14 Sep 2003,Michael,Schumacher,MSC,Ferrari,Ferrari,53,1:14:19.838,Michael Schumacher,2003
+United States,28 Sep 2003,Michael,Schumacher,MSC,Ferrari,Ferrari,73,1:33:35.997,Michael Schumacher,2003
+Japan,12 Oct 2003,Rubens,Barrichello,BAR,Ferrari,Ferrari,53,1:25:11.743,Rubens Barrichello,2003
+Australia,07 Mar 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,58,1:24:15.757,Michael Schumacher,2004
+Malaysia,21 Mar 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,56,1:31:07.490,Michael Schumacher,2004
+Bahrain,04 Apr 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,57,1:28:34.875,Michael Schumacher,2004
+San Marino,25 Apr 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,62,1:26:19.670,Michael Schumacher,2004
+Spain,09 May 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,66,1:27:32.841,Michael Schumacher,2004
+Monaco,23 May 2004,Jarno,Trulli,TRU,Renault,Renault,77,1:45:46.601,Jarno Trulli,2004
+Europe,30 May 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,60,1:32:35.101,Michael Schumacher,2004
+Canada,13 Jun 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,70,1:28:24.803,Michael Schumacher,2004
+United States,20 Jun 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,73,1:40:29.914,Michael Schumacher,2004
+France,04 Jul 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,70,1:30:18.133,Michael Schumacher,2004
+Great Britain,11 Jul 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,60,1:24:42.700,Michael Schumacher,2004
+Germany,25 Jul 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,66,1:23:54.848,Michael Schumacher,2004
+Hungary,15 Aug 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,70,1:35:26.131,Michael Schumacher,2004
+Belgium,29 Aug 2004,Kimi,Raikkonen,RAI,McLaren Mercedes,McLaren,44,1:32:35.274,Kimi Raikkonen,2004
+Italy,12 Sep 2004,Rubens,Barrichello,BAR,Ferrari,Ferrari,53,1:15:18.448,Rubens Barrichello,2004
+China,26 Sep 2004,Rubens,Barrichello,BAR,Ferrari,Ferrari,56,1:29:12.420,Rubens Barrichello,2004
+Japan,10 Oct 2004,Michael,Schumacher,MSC,Ferrari,Ferrari,53,1:24:26.985,Michael Schumacher,2004
+Brazil,24 Oct 2004,Juan Pablo,Montoya,MOY,Williams BMW,Williams,71,1:28:01.451,Juan Pablo Montoya,2004
+Australia,06 Mar 2005,Giancarlo,Fisichella,FIS,Renault,Renault,57,1:24:17.336,Giancarlo Fisichella,2005
+Malaysia,20 Mar 2005,Fernando,Alonso,ALO,Renault,Renault,56,1:31:33.736,Fernando Alonso,2005
+Bahrain,03 Apr 2005,Fernando,Alonso,ALO,Renault,Renault,57,1:29:18.531,Fernando Alonso,2005
+San Marino,24 Apr 2005,Fernando,Alonso,ALO,Renault,Renault,62,1:27:41.921,Fernando Alonso,2005
+Spain,08 May 2005,Kimi,Raikkonen,RAI,McLaren Mercedes,McLaren,66,1:27:16.830,Kimi Raikkonen,2005
+Monaco,22 May 2005,Kimi,Raikkonen,RAI,McLaren Mercedes,McLaren,78,1:45:15.556,Kimi Raikkonen,2005
+Europe,29 May 2005,Fernando,Alonso,ALO,Renault,Renault,59,1:31:46.648,Fernando Alonso,2005
+Canada,12 Jun 2005,Kimi,Raikkonen,RAI,McLaren Mercedes,McLaren,70,1:32:09.290,Kimi Raikkonen,2005
+United States,19 Jun 2005,Michael,Schumacher,MSC,Ferrari,Ferrari,73,1:29:43.181,Michael Schumacher,2005
+France,03 Jul 2005,Fernando,Alonso,ALO,Renault,Renault,70,1:31:22.233,Fernando Alonso,2005
+Great Britain,10 Jul 2005,Juan Pablo,Montoya,MOY,McLaren Mercedes,McLaren,60,1:24:29.588,Juan Pablo Montoya,2005
+Germany,24 Jul 2005,Fernando,Alonso,ALO,Renault,Renault,67,1:26:28.599,Fernando Alonso,2005
+Hungary,31 Jul 2005,Kimi,Raikkonen,RAI,McLaren Mercedes,McLaren,70,1:37:25.552,Kimi Raikkonen,2005
+Turkey,21 Aug 2005,Kimi,Raikkonen,RAI,McLaren Mercedes,McLaren,58,1:24:34.454,Kimi Raikkonen,2005
+Italy,04 Sep 2005,Juan Pablo,Montoya,MOY,McLaren Mercedes,McLaren,53,1:14:28.659,Juan Pablo Montoya,2005
+Belgium,11 Sep 2005,Kimi,Raikkonen,RAI,McLaren Mercedes,McLaren,44,1:30:01.295,Kimi Raikkonen,2005
+Brazil,25 Sep 2005,Juan Pablo,Montoya,MOY,McLaren Mercedes,McLaren,71,1:29:20.574,Juan Pablo Montoya,2005
+Japan,09 Oct 2005,Kimi,Raikkonen,RAI,McLaren Mercedes,McLaren,53,1:29:02.212,Kimi Raikkonen,2005
+China,16 Oct 2005,Fernando,Alonso,ALO,Renault,Renault,56,1:39:53.618,Fernando Alonso,2005
+Bahrain,12 Mar 2006,Fernando,Alonso,ALO,Renault,Renault,57,1:29:46.205,Fernando Alonso,2006
+Malaysia,19 Mar 2006,Giancarlo,Fisichella,FIS,Renault,Renault,56,1:30:40.529,Giancarlo Fisichella,2006
+Australia,02 Apr 2006,Fernando,Alonso,ALO,Renault,Renault,57,1:34:27.870,Fernando Alonso,2006
+San Marino,23 Apr 2006,Michael,Schumacher,MSC,Ferrari,Ferrari,62,1:31:06.486,Michael Schumacher,2006
+Europe,07 May 2006,Michael,Schumacher,MSC,Ferrari,Ferrari,60,1:35:58.765,Michael Schumacher,2006
+Spain,14 May 2006,Fernando,Alonso,ALO,Renault,Renault,66,1:26:21.759,Fernando Alonso,2006
+Monaco,28 May 2006,Fernando,Alonso,ALO,Renault,Renault,78,1:43:43.116,Fernando Alonso,2006
+Great Britain,11 Jun 2006,Fernando,Alonso,ALO,Renault,Renault,60,1:25:51.927,Fernando Alonso,2006
+Canada,25 Jun 2006,Fernando,Alonso,ALO,Renault,Renault,70,1:34:37.308,Fernando Alonso,2006
+United States,02 Jul 2006,Michael,Schumacher,MSC,Ferrari,Ferrari,73,1:34:35.199,Michael Schumacher,2006
+France,16 Jul 2006,Michael,Schumacher,MSC,Ferrari,Ferrari,70,1:32:07.803,Michael Schumacher,2006
+Germany,30 Jul 2006,Michael,Schumacher,MSC,Ferrari,Ferrari,67,1:27:51.693,Michael Schumacher,2006
+Hungary,06 Aug 2006,Jenson,Button,BUT,Honda,Honda,70,1:52:20.941,Jenson Button,2006
+Turkey,27 Aug 2006,Felipe,Massa,MAS,Ferrari,Ferrari,58,1:28:51.082,Felipe Massa,2006
+Italy,10 Sep 2006,Michael,Schumacher,MSC,Ferrari,Ferrari,53,1:14:51.975,Michael Schumacher,2006
+China,01 Oct 2006,Michael,Schumacher,MSC,Ferrari,Ferrari,56,1:37:32.747,Michael Schumacher,2006
+Japan,08 Oct 2006,Fernando,Alonso,ALO,Renault,Renault,53,1:23:53.413,Fernando Alonso,2006
+Brazil,22 Oct 2006,Felipe,Massa,MAS,Ferrari,Ferrari,71,1:31:53.751,Felipe Massa,2006
+Australia,18 Mar 2007,Kimi,Raikkonen,RAI,Ferrari,Ferrari,58,1:25:28.770,Kimi Raikkonen,2007
+Malaysia,08 Apr 2007,Fernando,Alonso,ALO,McLaren Mercedes,McLaren,56,1:32:14.930,Fernando Alonso,2007
+Bahrain,15 Apr 2007,Felipe,Massa,MAS,Ferrari,Ferrari,57,1:33:27.515,Felipe Massa,2007
+Spain,13 May 2007,Felipe,Massa,MAS,Ferrari,Ferrari,65,1:31:36.230,Felipe Massa,2007
+Monaco,27 May 2007,Fernando,Alonso,ALO,McLaren Mercedes,McLaren,78,1:40:29.329,Fernando Alonso,2007
+Canada,10 Jun 2007,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,70,1:44:11.292,Lewis Hamilton,2007
+United States,17 Jun 2007,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,73,1:31:09.965,Lewis Hamilton,2007
+France,01 Jul 2007,Kimi,Raikkonen,RAI,Ferrari,Ferrari,70,1:30:54.200,Kimi Raikkonen,2007
+Great Britain,08 Jul 2007,Kimi,Raikkonen,RAI,Ferrari,Ferrari,59,1:21:43.074,Kimi Raikkonen,2007
+Europe,22 Jul 2007,Fernando,Alonso,ALO,McLaren Mercedes,McLaren,60,2:06:26.358,Fernando Alonso,2007
+Hungary,05 Aug 2007,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,70,1:35:52.991,Lewis Hamilton,2007
+Turkey,26 Aug 2007,Felipe,Massa,MAS,Ferrari,Ferrari,58,1:26:42.161,Felipe Massa,2007
+Italy,09 Sep 2007,Fernando,Alonso,ALO,McLaren Mercedes,McLaren,53,1:18:37.806,Fernando Alonso,2007
+Belgium,16 Sep 2007,Kimi,Raikkonen,RAI,Ferrari,Ferrari,44,1:20:39.066,Kimi Raikkonen,2007
+Japan,30 Sep 2007,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,67,2:00:34.579,Lewis Hamilton,2007
+China,07 Oct 2007,Kimi,Raikkonen,RAI,Ferrari,Ferrari,56,1:37:58.395,Kimi Raikkonen,2007
+Brazil,21 Oct 2007,Kimi,Raikkonen,RAI,Ferrari,Ferrari,71,1:28:15.270,Kimi Raikkonen,2007
+Australia,16 Mar 2008,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,58,1:34:50.616,Lewis Hamilton,2008
+Malaysia,23 Mar 2008,Kimi,Raikkonen,RAI,Ferrari,Ferrari,56,1:31:18.555,Kimi Raikkonen,2008
+Bahrain,06 Apr 2008,Felipe,Massa,MAS,Ferrari,Ferrari,57,1:31:06.970,Felipe Massa,2008
+Spain,27 Apr 2008,Kimi,Raikkonen,RAI,Ferrari,Ferrari,66,1:38:19.051,Kimi Raikkonen,2008
+Turkey,11 May 2008,Felipe,Massa,MAS,Ferrari,Ferrari,58,1:26:49.451,Felipe Massa,2008
+Monaco,25 May 2008,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,76,2:00:42.742,Lewis Hamilton,2008
+Canada,08 Jun 2008,Robert,Kubica,KUB,Sauber BMW,Sauber,70,1:36:24.447,Robert Kubica,2008
+France,22 Jun 2008,Felipe,Massa,MAS,Ferrari,Ferrari,70,1:31:50.245,Felipe Massa,2008
+Great Britain,06 Jul 2008,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,60,1:39:09.440,Lewis Hamilton,2008
+Germany,20 Jul 2008,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,67,1:31:20.874,Lewis Hamilton,2008
+Hungary,03 Aug 2008,Heikki,Kovalainen,KOV,McLaren Mercedes,McLaren,70,1:37:27.067,Heikki Kovalainen,2008
+Europe,24 Aug 2008,Felipe,Massa,MAS,Ferrari,Ferrari,57,1:35:32.339,Felipe Massa,2008
+Belgium,07 Sep 2008,Felipe,Massa,MAS,Ferrari,Ferrari,44,1:22:59.394,Felipe Massa,2008
+Italy,14 Sep 2008,Sebastian,Vettel,VET,STR Ferrari,STR,53,1:26:47.494,Sebastian Vettel,2008
+Singapore,28 Sep 2008,Fernando,Alonso,ALO,Renault,Renault,61,1:57:16.304,Fernando Alonso,2008
+Japan,12 Oct 2008,Fernando,Alonso,ALO,Renault,Renault,67,1:30:21.892,Fernando Alonso,2008
+China,19 Oct 2008,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,56,1:31:57.403,Lewis Hamilton,2008
+Brazil,02 Nov 2008,Felipe,Massa,MAS,Ferrari,Ferrari,71,1:34:11.435,Felipe Massa,2008
+Australia,29 Mar 2009,Jenson,Button,BUT,Brawn Mercedes,Brawn,58,1:34:15.784,Jenson Button,2009
+Malaysia,05 Apr 2009,Jenson,Button,BUT,Brawn Mercedes,Brawn,31,55:30.622,Jenson Button,2009
+China,19 Apr 2009,Sebastian,Vettel,VET,RBR Renault,Red Bull Racing,56,1:57:43.485,Sebastian Vettel,2009
+Bahrain,26 Apr 2009,Jenson,Button,BUT,Brawn Mercedes,Brawn,57,1:31:48.182,Jenson Button,2009
+Spain,10 May 2009,Jenson,Button,BUT,Brawn Mercedes,Brawn,66,1:37:19.202,Jenson Button,2009
+Monaco,24 May 2009,Jenson,Button,BUT,Brawn Mercedes,Brawn,78,1:40:44.282,Jenson Button,2009
+Turkey,07 Jun 2009,Jenson,Button,BUT,Brawn Mercedes,Brawn,58,1:26:24.848,Jenson Button,2009
+Great Britain,21 Jun 2009,Sebastian,Vettel,VET,RBR Renault,Red Bull Racing,60,1:22:49.328,Sebastian Vettel,2009
+Germany,12 Jul 2009,Mark,Webber,WEB,RBR Renault,Red Bull Racing,60,1:36:43.310,Mark Webber,2009
+Hungary,26 Jul 2009,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,70,1:38:23.876,Lewis Hamilton,2009
+Europe,23 Aug 2009,Rubens,Barrichello,BAR,Brawn Mercedes,Brawn,57,1:35:51.289,Rubens Barrichello,2009
+Belgium,30 Aug 2009,Kimi,Raikkonen,RAI,Ferrari,Ferrari,44,1:23:50.995,Kimi Raikkonen,2009
+Italy,13 Sep 2009,Rubens,Barrichello,BAR,Brawn Mercedes,Brawn,53,1:16:21.706,Rubens Barrichello,2009
+Singapore,27 Sep 2009,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,61,1:56:06.337,Lewis Hamilton,2009
+Japan,04 Oct 2009,Sebastian,Vettel,VET,RBR Renault,Red Bull Racing,53,1:28:20.443,Sebastian Vettel,2009
+Brazil,18 Oct 2009,Mark,Webber,WEB,RBR Renault,Red Bull Racing,71,1:32:23.081,Mark Webber,2009
+Abu Dhabi,01 Nov 2009,Sebastian,Vettel,VET,RBR Renault,Red Bull Racing,55,1:34:03.414,Sebastian Vettel,2009
+Bahrain,14 Mar 2010,Fernando,Alonso,ALO,Ferrari,Ferrari,49,1:39:20.396,Fernando Alonso,2010
+Australia,28 Mar 2010,Jenson,Button,BUT,McLaren Mercedes,McLaren,58,1:33:36.531,Jenson Button,2010
+Malaysia,04 Apr 2010,Sebastian,Vettel,VET,RBR Renault,Red Bull Racing,56,1:33:48.412,Sebastian Vettel,2010
+China,18 Apr 2010,Jenson,Button,BUT,McLaren Mercedes,McLaren,56,1:46:42.163,Jenson Button,2010
+Spain,09 May 2010,Mark,Webber,WEB,RBR Renault,Red Bull Racing,66,1:35:44.101,Mark Webber,2010
+Monaco,16 May 2010,Mark,Webber,WEB,RBR Renault,Red Bull Racing,78,1:50:13.355,Mark Webber,2010
+Turkey,30 May 2010,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,58,1:28:47.620,Lewis Hamilton,2010
+Canada,13 Jun 2010,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,70,1:33:53.456,Lewis Hamilton,2010
+Europe,27 Jun 2010,Sebastian,Vettel,VET,RBR Renault,Red Bull Racing,57,1:40:29.571,Sebastian Vettel,2010
+Great Britain,11 Jul 2010,Mark,Webber,WEB,RBR Renault,Red Bull Racing,52,1:24:38.200,Mark Webber,2010
+Germany,25 Jul 2010,Fernando,Alonso,ALO,Ferrari,Ferrari,67,1:27:38.864,Fernando Alonso,2010
+Hungary,01 Aug 2010,Mark,Webber,WEB,RBR Renault,Red Bull Racing,70,1:41:05.571,Mark Webber,2010
+Belgium,29 Aug 2010,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,44,1:29:04.268,Lewis Hamilton,2010
+Italy,12 Sep 2010,Fernando,Alonso,ALO,Ferrari,Ferrari,53,1:16:24.572,Fernando Alonso,2010
+Singapore,26 Sep 2010,Fernando,Alonso,ALO,Ferrari,Ferrari,61,1:57:53.579,Fernando Alonso,2010
+Japan,10 Oct 2010,Sebastian,Vettel,VET,RBR Renault,Red Bull Racing,53,1:30:27.323,Sebastian Vettel,2010
+South Korea,24 Oct 2010,Fernando,Alonso,ALO,Ferrari,Ferrari,55,2:48:20.810,Fernando Alonso,2010
+Brazil,07 Nov 2010,Sebastian,Vettel,VET,RBR Renault,Red Bull Racing,71,1:33:11.803,Sebastian Vettel,2010
+Abu Dhabi,14 Nov 2010,Sebastian,Vettel,VET,RBR Renault,Red Bull Racing,55,1:39:36.837,Sebastian Vettel,2010
+Australia,27 Mar 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,58,1:29:30.259,Sebastian Vettel,2011
+Malaysia,10 Apr 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,56,1:37:39.832,Sebastian Vettel,2011
+China,17 Apr 2011,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,56,1:36:58.226,Lewis Hamilton,2011
+Turkey,08 May 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,58,1:30:17.558,Sebastian Vettel,2011
+Spain,22 May 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,66,1:39:03.301,Sebastian Vettel,2011
+Monaco,29 May 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,78,2:09:38.373,Sebastian Vettel,2011
+Canada,12 Jun 2011,Jenson,Button,BUT,McLaren Mercedes,McLaren,70,4:04:39.537,Jenson Button,2011
+Europe,26 Jun 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,57,1:39:36.169,Sebastian Vettel,2011
+Great Britain,10 Jul 2011,Fernando,Alonso,ALO,Ferrari,Ferrari,52,1:28:41.196,Fernando Alonso,2011
+Germany,24 Jul 2011,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,60,1:37:30.334,Lewis Hamilton,2011
+Hungary,31 Jul 2011,Jenson,Button,BUT,McLaren Mercedes,McLaren,70,1:46:42.337,Jenson Button,2011
+Belgium,28 Aug 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,44,1:26:44.893,Sebastian Vettel,2011
+Italy,11 Sep 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,53,1:20:46.172,Sebastian Vettel,2011
+Singapore,25 Sep 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,61,1:59:06.757,Sebastian Vettel,2011
+Japan,09 Oct 2011,Jenson,Button,BUT,McLaren Mercedes,McLaren,53,1:30:53.427,Jenson Button,2011
+South Korea,16 Oct 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,55,1:38:01.994,Sebastian Vettel,2011
+India,30 Oct 2011,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,60,1:30:35.002,Sebastian Vettel,2011
+Abu Dhabi,13 Nov 2011,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,55,1:37:11.886,Lewis Hamilton,2011
+Brazil,27 Nov 2011,Mark,Webber,WEB,Red Bull Racing Renault,Red Bull Racing,71,1:32:17.464,Mark Webber,2011
+Australia,18 Mar 2012,Jenson,Button,BUT,McLaren Mercedes,McLaren,58,1:34:09.565,Jenson Button,2012
+Malaysia,25 Mar 2012,Fernando,Alonso,ALO,Ferrari,Ferrari,56,2:44:51.812,Fernando Alonso,2012
+China,15 Apr 2012,Nico,Rosberg,ROS,Mercedes,Mercedes,56,1:36:26.929,Nico Rosberg,2012
+Bahrain,22 Apr 2012,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,57,1:35:10.990,Sebastian Vettel,2012
+Spain,13 May 2012,Pastor,Maldonado,MAL,Williams Renault,Williams,66,1:39:09.145,Pastor Maldonado,2012
+Monaco,27 May 2012,Mark,Webber,WEB,Red Bull Racing Renault,Red Bull Racing,78,1:46:06.557,Mark Webber,2012
+Canada,10 Jun 2012,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,70,1:32:29.586,Lewis Hamilton,2012
+Europe,24 Jun 2012,Fernando,Alonso,ALO,Ferrari,Ferrari,57,1:44:16.649,Fernando Alonso,2012
+Great Britain,08 Jul 2012,Mark,Webber,WEB,Red Bull Racing Renault,Red Bull Racing,52,1:25:11.288,Mark Webber,2012
+Germany,22 Jul 2012,Fernando,Alonso,ALO,Ferrari,Ferrari,67,1:31:05.862,Fernando Alonso,2012
+Hungary,29 Jul 2012,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,69,1:41:05.503,Lewis Hamilton,2012
+Belgium,02 Sep 2012,Jenson,Button,BUT,McLaren Mercedes,McLaren,44,1:29:08.530,Jenson Button,2012
+Italy,09 Sep 2012,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,53,1:19:41.221,Lewis Hamilton,2012
+Singapore,23 Sep 2012,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,59,2:00:26.144,Sebastian Vettel,2012
+Japan,07 Oct 2012,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,53,1:28:56.242,Sebastian Vettel,2012
+South Korea,14 Oct 2012,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,55,1:36:28.651,Sebastian Vettel,2012
+India,28 Oct 2012,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,60,1:31:10.744,Sebastian Vettel,2012
+Abu Dhabi,04 Nov 2012,Kimi,Raikkonen,RAI,Lotus Renault,Lotus,55,1:45:58.667,Kimi Raikkonen,2012
+United States,18 Nov 2012,Lewis,Hamilton,HAM,McLaren Mercedes,McLaren,56,1:35:55.269,Lewis Hamilton,2012
+Brazil,25 Nov 2012,Jenson,Button,BUT,McLaren Mercedes,McLaren,71,1:45:22.656,Jenson Button,2012
+Australia,17 Mar 2013,Kimi,Raikkonen,RAI,Lotus Renault,Lotus,58,1:30:03.225,Kimi Raikkonen,2013
+Malaysia,24 Mar 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,56,1:38:56.681,Sebastian Vettel,2013
+China,14 Apr 2013,Fernando,Alonso,ALO,Ferrari,Ferrari,56,1:36:26.945,Fernando Alonso,2013
+Bahrain,21 Apr 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,57,1:36:00.498,Sebastian Vettel,2013
+Spain,12 May 2013,Fernando,Alonso,ALO,Ferrari,Ferrari,66,1:39:16.596,Fernando Alonso,2013
+Monaco,26 May 2013,Nico,Rosberg,ROS,Mercedes,Mercedes,78,2:17:52.056,Nico Rosberg,2013
+Canada,09 Jun 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,70,1:32:09.143,Sebastian Vettel,2013
+Great Britain,30 Jun 2013,Nico,Rosberg,ROS,Mercedes,Mercedes,52,1:32:59.456,Nico Rosberg,2013
+Germany,07 Jul 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,60,1:41:14.711,Sebastian Vettel,2013
+Hungary,28 Jul 2013,Lewis,Hamilton,HAM,Mercedes,Mercedes,70,1:42:29.445,Lewis Hamilton,2013
+Belgium,25 Aug 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,44,1:23:42.196,Sebastian Vettel,2013
+Italy,08 Sep 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,53,1:18:33.352,Sebastian Vettel,2013
+Singapore,22 Sep 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,61,1:59:13.132,Sebastian Vettel,2013
+South Korea,06 Oct 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,55,1:43:13.701,Sebastian Vettel,2013
+Japan,13 Oct 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,53,1:26:49.301,Sebastian Vettel,2013
+India,27 Oct 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,60,1:31:12.187,Sebastian Vettel,2013
+Abu Dhabi,03 Nov 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,55,1:38:06.106,Sebastian Vettel,2013
+United States,17 Nov 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,56,1:39:17.148,Sebastian Vettel,2013
+Brazil,24 Nov 2013,Sebastian,Vettel,VET,Red Bull Racing Renault,Red Bull Racing,71,1:32:36.300,Sebastian Vettel,2013
+Australia,16 Mar 2014,Nico,Rosberg,ROS,Mercedes,Mercedes,57,1:32:58.710,Nico Rosberg,2014
+Malaysia,30 Mar 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,56,1:40:25.974,Lewis Hamilton,2014
+Bahrain,06 Apr 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,57,1:39:42.743,Lewis Hamilton,2014
+China,20 Apr 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,54,1:33:28.338,Lewis Hamilton,2014
+Spain,11 May 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,66,1:41:05.155,Lewis Hamilton,2014
+Monaco,25 May 2014,Nico,Rosberg,ROS,Mercedes,Mercedes,78,1:49:27.661,Nico Rosberg,2014
+Canada,08 Jun 2014,Daniel,Ricciardo,RIC,Red Bull Racing Renault,Red Bull Racing,70,1:39:12.830,Daniel Ricciardo,2014
+Austria,22 Jun 2014,Nico,Rosberg,ROS,Mercedes,Mercedes,71,1:27:54.976,Nico Rosberg,2014
+Great Britain,06 Jul 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,52,2:26:52.094,Lewis Hamilton,2014
+Germany,20 Jul 2014,Nico,Rosberg,ROS,Mercedes,Mercedes,67,1:33:42.914,Nico Rosberg,2014
+Hungary,27 Jul 2014,Daniel,Ricciardo,RIC,Red Bull Racing Renault,Red Bull Racing,70,1:53:05.058,Daniel Ricciardo,2014
+Belgium,24 Aug 2014,Daniel,Ricciardo,RIC,Red Bull Racing Renault,Red Bull Racing,44,1:24:36.556,Daniel Ricciardo,2014
+Italy,07 Sep 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:19:10.236,Lewis Hamilton,2014
+Singapore,21 Sep 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,60,2:00:04.795,Lewis Hamilton,2014
+Japan,05 Oct 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,44,1:51:43.021,Lewis Hamilton,2014
+Russia,21 Oct 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:31:50.744,Lewis Hamilton,2014
+United States,02 Nov 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,56,1:40:04.785,Lewis Hamilton,2014
+Brazil,09 Nov 2014,Nico,Rosberg,ROS,Mercedes,Mercedes,71,1:30:02.555,Nico Rosberg,2014
+Abu Dhabi,23 Nov 2014,Lewis,Hamilton,HAM,Mercedes,Mercedes,55,1:39:02.619,Lewis Hamilton,2014
+Australia,15 Mar 2015,Lewis,Hamilton,HAM,Mercedes,Mercedes,58,1:31:54.067,Lewis Hamilton,2015
+Malaysia,29 Mar 2015,Sebastian,Vettel,VET,Ferrari,Ferrari,56,1:41:05.793,Sebastian Vettel,2015
+China,12 Apr 2015,Lewis,Hamilton,HAM,Mercedes,Mercedes,56,1:39:42.008,Lewis Hamilton,2015
+Bahrain,19 Apr 2015,Lewis,Hamilton,HAM,Mercedes,Mercedes,57,1:35:05.809,Lewis Hamilton,2015
+Spain,10 May 2015,Nico,Rosberg,ROS,Mercedes,Mercedes,66,1:41:12.555,Nico Rosberg,2015
+Monaco,24 May 2015,Nico,Rosberg,ROS,Mercedes,Mercedes,78,1:49:18.420,Nico Rosberg,2015
+Canada,07 Jun 2015,Lewis,Hamilton,HAM,Mercedes,Mercedes,70,1:31:53.145,Lewis Hamilton,2015
+Austria,21 Jun 2015,Nico,Rosberg,ROS,Mercedes,Mercedes,71,1:30:16.930,Nico Rosberg,2015
+Great Britain,05 Jul 2015,Lewis,Hamilton,HAM,Mercedes,Mercedes,52,1:31:27.729,Lewis Hamilton,2015
+Hungary,26 Jul 2015,Sebastian,Vettel,VET,Ferrari,Ferrari,69,1:46:09.985,Sebastian Vettel,2015
+Belgium,23 Aug 2015,Lewis,Hamilton,HAM,Mercedes,Mercedes,43,1:23:40.387,Lewis Hamilton,2015
+Italy,06 Sep 2015,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:18:00.688,Lewis Hamilton,2015
+Singapore,20 Sep 2015,Sebastian,Vettel,VET,Ferrari,Ferrari,61,2:01:22.118,Sebastian Vettel,2015
+Japan,27 Sep 2015,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:28:06.508,Lewis Hamilton,2015
+Russia,11 Oct 2015,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:37:11.024,Lewis Hamilton,2015
+United States,25 Oct 2015,Lewis,Hamilton,HAM,Mercedes,Mercedes,56,1:50:52.703,Lewis Hamilton,2015
+Mexico,01 Nov 2015,Nico,Rosberg,ROS,Mercedes,Mercedes,71,1:42:35.038,Nico Rosberg,2015
+Brazil,15 Nov 2015,Nico,Rosberg,ROS,Mercedes,Mercedes,71,1:31:09.090,Nico Rosberg,2015
+Abu Dhabi,29 Nov 2015,Nico,Rosberg,ROS,Mercedes,Mercedes,55,1:38:30.175,Nico Rosberg,2015
+Australia,20 Mar 2016,Nico,Rosberg,ROS,Mercedes,Mercedes,57,1:48:15.565,Nico Rosberg,2016
+Bahrain,03 Apr 2016,Nico,Rosberg,ROS,Mercedes,Mercedes,57,1:33:34.696,Nico Rosberg,2016
+China,17 Apr 2016,Nico,Rosberg,ROS,Mercedes,Mercedes,56,1:38:53.891,Nico Rosberg,2016
+Russia,01 May 2016,Nico,Rosberg,ROS,Mercedes,Mercedes,53,1:32:41.997,Nico Rosberg,2016
+Spain,15 May 2016,Max,Verstappen,VES,Red Bull Racing TAG Heuer,Red Bull Racing,66,1:41:40.017,Max Verstappen,2016
+Monaco,29 May 2016,Lewis,Hamilton,HAM,Mercedes,Mercedes,78,1:59:29.133,Lewis Hamilton,2016
+Canada,12 Jun 2016,Lewis,Hamilton,HAM,Mercedes,Mercedes,70,1:31:05.296,Lewis Hamilton,2016
+Europe,19 Jun 2016,Nico,Rosberg,ROS,Mercedes,Mercedes,51,1:32:52.366,Nico Rosberg,2016
+Austria,03 Jul 2016,Lewis,Hamilton,HAM,Mercedes,Mercedes,71,1:27:38.107,Lewis Hamilton,2016
+Great Britain,10 Jul 2016,Lewis,Hamilton,HAM,Mercedes,Mercedes,52,1:34:55.831,Lewis Hamilton,2016
+Hungary,24 Jul 2016,Lewis,Hamilton,HAM,Mercedes,Mercedes,70,1:40:30.115,Lewis Hamilton,2016
+Germany,31 Jul 2016,Lewis,Hamilton,HAM,Mercedes,Mercedes,67,1:30:44.200,Lewis Hamilton,2016
+Belgium,28 Aug 2016,Nico,Rosberg,ROS,Mercedes,Mercedes,44,1:44:51.058,Nico Rosberg,2016
+Italy,04 Sep 2016,Nico,Rosberg,ROS,Mercedes,Mercedes,53,1:17:28.089,Nico Rosberg,2016
+Singapore,18 Sep 2016,Nico,Rosberg,ROS,Mercedes,Mercedes,61,1:55:48.950,Nico Rosberg,2016
+Malaysia,02 Oct 2016,Daniel,Ricciardo,RIC,Red Bull Racing TAG Heuer,Red Bull Racing,56,1:37:12.776,Daniel Ricciardo,2016
+Japan,09 Oct 2016,Nico,Rosberg,ROS,Mercedes,Mercedes,53,1:26:43.333,Nico Rosberg,2016
+United States,23 Oct 2016,Lewis,Hamilton,HAM,Mercedes,Mercedes,56,1:38:12.618,Lewis Hamilton,2016
+Mexico,30 Oct 2016,Lewis,Hamilton,HAM,Mercedes,Mercedes,71,1:40:31.402,Lewis Hamilton,2016
+Brazil,13 Nov 2016,Lewis,Hamilton,HAM,Mercedes,Mercedes,71,3:01:01.335,Lewis Hamilton,2016
+Abu Dhabi,27 Nov 2016,Lewis,Hamilton,HAM,Mercedes,Mercedes,55,1:38:04.013,Lewis Hamilton,2016
+Australia,26 Mar 2017,Sebastian,Vettel,VET,Ferrari,Ferrari,57,1:24:11.672,Sebastian Vettel,2017
+China,09 Apr 2017,Lewis,Hamilton,HAM,Mercedes,Mercedes,56,1:37:36.158,Lewis Hamilton,2017
+Bahrain,16 Apr 2017,Sebastian,Vettel,VET,Ferrari,Ferrari,57,1:33:53.374,Sebastian Vettel,2017
+Russia,30 Apr 2017,Valtteri,Bottas,BOT,Mercedes,Mercedes,52,1:28:08.743,Valtteri Bottas,2017
+Spain,14 May 2017,Lewis,Hamilton,HAM,Mercedes,Mercedes,66,1:35:56.497,Lewis Hamilton,2017
+Monaco,28 May 2017,Sebastian,Vettel,VET,Ferrari,Ferrari,78,1:44:44.340,Sebastian Vettel,2017
+Canada,11 Jun 2017,Lewis,Hamilton,HAM,Mercedes,Mercedes,70,1:33:05.154,Lewis Hamilton,2017
+Azerbaijan,25 Jun 2017,Daniel,Ricciardo,RIC,Red Bull Racing TAG Heuer,Red Bull Racing,51,2:03:55.573,Daniel Ricciardo,2017
+Austria,09 Jul 2017,Valtteri,Bottas,BOT,Mercedes,Mercedes,71,1:21:48.523,Valtteri Bottas,2017
+Great Britain,16 Jul 2017,Lewis,Hamilton,HAM,Mercedes,Mercedes,51,1:21:27.430,Lewis Hamilton,2017
+Hungary,30 Jul 2017,Sebastian,Vettel,VET,Ferrari,Ferrari,70,1:39:46.713,Sebastian Vettel,2017
+Belgium,27 Aug 2017,Lewis,Hamilton,HAM,Mercedes,Mercedes,44,1:24:42.820,Lewis Hamilton,2017
+Italy,03 Sep 2017,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:15:32.312,Lewis Hamilton,2017
+Singapore,17 Sep 2017,Lewis,Hamilton,HAM,Mercedes,Mercedes,58,2:03:23.544,Lewis Hamilton,2017
+Malaysia,01 Oct 2017,Max,Verstappen,VER,Red Bull Racing TAG Heuer,Red Bull Racing,56,1:30:01.290,Max Verstappen,2017
+Japan,08 Oct 2017,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:27:31.194,Lewis Hamilton,2017
+United States,22 Oct 2017,Lewis,Hamilton,HAM,Mercedes,Mercedes,56,1:33:50.991,Lewis Hamilton,2017
+Mexico,29 Oct 2017,Max,Verstappen,VER,Red Bull Racing TAG Heuer,Red Bull Racing,71,1:36:26.552,Max Verstappen,2017
+Brazil,12 Nov 2017,Sebastian,Vettel,VET,Ferrari,Ferrari,71,1:31:26.262,Sebastian Vettel,2017
+Abu Dhabi,26 Nov 2017,Valtteri,Bottas,BOT,Mercedes,Mercedes,55,1:34:14.062,Valtteri Bottas,2017
+Australia,25 Mar 2018,Sebastian,Vettel,VET,Ferrari,Ferrari,58,1:29:33.283,Sebastian Vettel,2018
+Bahrain,08 Apr 2018,Sebastian,Vettel,VET,Ferrari,Ferrari,57,1:32:01.940,Sebastian Vettel,2018
+China,15 Apr 2018,Daniel,Ricciardo,RIC,Red Bull Racing TAG Heuer,Red Bull Racing,56,1:35:36.380,Daniel Ricciardo,2018
+Azerbaijan,29 Apr 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,51,1:43:44.291,Lewis Hamilton,2018
+Spain,13 May 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,66,1:35:29.972,Lewis Hamilton,2018
+Monaco,27 May 2018,Daniel,Ricciardo,RIC,Red Bull Racing TAG Heuer,Red Bull Racing,78,1:42:54.807,Daniel Ricciardo,2018
+Canada,10 Jun 2018,Sebastian,Vettel,VET,Ferrari,Ferrari,68,1:28:31.377,Sebastian Vettel,2018
+France,24 Jun 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:30:11.385,Lewis Hamilton,2018
+Austria,01 Jul 2018,Max,Verstappen,VER,Red Bull Racing TAG Heuer,Red Bull Racing,71,1:21:56.024,Max Verstappen,2018
+Great Britain,08 Jul 2018,Sebastian,Vettel,VET,Ferrari,Ferrari,52,1:27:29.784,Sebastian Vettel,2018
+Germany,22 Jul 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,67,1:32:29.845,Lewis Hamilton,2018
+Hungary,29 Jul 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,70,1:37:16.427,Lewis Hamilton,2018
+Belgium,26 Aug 2018,Sebastian,Vettel,VET,Ferrari,Ferrari,44,1:23:34.476,Sebastian Vettel,2018
+Italy,02 Sep 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:16:54.484,Lewis Hamilton,2018
+Singapore,16 Sep 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,61,1:51:11.611,Lewis Hamilton,2018
+Russia,30 Sep 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:27:25.181,Lewis Hamilton,2018
+Japan,07 Oct 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:27:17.062,Lewis Hamilton,2018
+United States,21 Oct 2018,Kimi,Raikkonen,RAI,Ferrari,Ferrari,56,1:34:18.643,Kimi Raikkonen,2018
+Mexico,28 Oct 2018,Max,Verstappen,VER,Red Bull Racing TAG Heuer,Red Bull Racing,71,1:38:28.851,Max Verstappen,2018
+Brazil,11 Nov 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,71,1:27:09.066,Lewis Hamilton,2018
+Abu Dhabi,25 Nov 2018,Lewis,Hamilton,HAM,Mercedes,Mercedes,55,1:39:40.382,Lewis Hamilton,2018
+Australia,17 Mar 2019,Valtteri,Bottas,BOT,Mercedes,Mercedes,58,1:25:27.325,Valtteri Bottas,2019
+Bahrain,31 Mar 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,57,1:34:21.295,Lewis Hamilton,2019
+China,14 Apr 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,56,1:32:06.350,Lewis Hamilton,2019
+Azerbaijan,28 Apr 2019,Valtteri,Bottas,BOT,Mercedes,Mercedes,51,1:31:52.942,Valtteri Bottas,2019
+Spain,12 May 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,66,1:35:50.443,Lewis Hamilton,2019
+Monaco,26 May 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,78,1:43:28.437,Lewis Hamilton,2019
+Canada,09 Jun 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,70,1:29:07.084,Lewis Hamilton,2019
+France,23 Jun 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:24:31.198,Lewis Hamilton,2019
+Austria,30 Jun 2019,Max,Verstappen,VER,Red Bull Racing Honda,Red Bull Racing,71,1:22:01.822,Max Verstappen,2019
+Great Britain,14 Jul 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,52,1:21:08.452,Lewis Hamilton,2019
+Germany,28 Jul 2019,Max,Verstappen,VER,Red Bull Racing Honda,Red Bull Racing,64,1:44:31.275,Max Verstappen,2019
+Hungary,04 Aug 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,70,1:35:03.796,Lewis Hamilton,2019
+Belgium,01 Sep 2019,Charles,Leclerc,LEC,Ferrari,Ferrari,44,1:23:45.710,Charles Leclerc,2019
+Italy,08 Sep 2019,Charles,Leclerc,LEC,Ferrari,Ferrari,53,1:15:26.665,Charles Leclerc,2019
+Singapore,22 Sep 2019,Sebastian,Vettel,VET,Ferrari,Ferrari,61,1:58:33.667,Sebastian Vettel,2019
+Russia,29 Sep 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,53,1:33:38.992,Lewis Hamilton,2019
+Japan,13 Oct 2019,Valtteri,Bottas,BOT,Mercedes,Mercedes,52,1:21:46.755,Valtteri Bottas,2019
+Mexico,27 Oct 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,71,1:36:48.904,Lewis Hamilton,2019
+United States,03 Nov 2019,Valtteri,Bottas,BOT,Mercedes,Mercedes,56,1:33:55.653,Valtteri Bottas,2019
+Brazil,17 Nov 2019,Max,Verstappen,VER,Red Bull Racing Honda,Red Bull Racing,71,1:33:14.678,Max Verstappen,2019
+Abu Dhabi,01 Dec 2019,Lewis,Hamilton,HAM,Mercedes,Mercedes,55,1:34:05.715,Lewis Hamilton,2019
